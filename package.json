@@ -1,6 +1,6 @@
 {
   "name": "@ambassify/update-changelog",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utility to automatically manage CHANGELOG files",
   "main": "index.js",
   "bin": {
