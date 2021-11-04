@@ -1,0 +1,26 @@
+{
+  "name": "@ambassify/update-changelog",
+  "version": "0.0.0",
+  "description": "Utility to automatically manage CHANGELOG files",
+  "main": "index.js",
+  "bin": {
+    "update-changelog": "./index.js"
+  },
+  "scripts": {
+    "version": "node .",
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambassify/update-changelog.git"
+  },
+  "keywords": [
+    "changelog"
+  ],
+  "author": "Ambassify <dev@ambassify.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ambassify/update-changelog/issues"
+  },
+  "homepage": "https://github.com/ambassify/update-changelog#readme"
+}
